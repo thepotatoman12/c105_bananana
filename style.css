@@ -1,0 +1,20 @@
+body{
+color: lime;
+background:skyblue;
+}
+.heading{
+    width: 69%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+.nameOfObjects{
+    color:#d4aa25;
+}
+#camorita,#result{
+    border:5px dashed #506022;
+    width: 350px;
+    height: 300px;
+}
+#resultino_accuracino, #resultino_obectino{
+color:#bfd1bc;
+}
